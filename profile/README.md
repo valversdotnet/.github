@@ -7,4 +7,4 @@
 👂 VALVERS is open to suggestions for future updates, cya on [discord](https://valvers.net/discord).<br>
 
 ## ``📣 INFO`` <br>Unfortunately, I lost all my interest developing this project.
-##### If you are interested in continuing or creating your own tracker, dm on Discord (jeokovic), I will consider making the whole project opensource.
+##### If you are interested in continuing or creating your own tracker, dm on Discord (jeokovic), I will consider making the whole project opensource.<br> ``STACK:`` ```React, Express, MySQL```
